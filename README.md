@@ -51,7 +51,7 @@ pip install -r requirements.txt
 Open your terminal and copy the .env.example:, to set your preferred ollama model:
 ```
 cp .env.example .env
-''' 
+``` 
 
 Make sure Ollama is running in the background, then:
 
